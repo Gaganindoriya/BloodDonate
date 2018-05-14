@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blood Donate</string>
+    <string name="feedback">प्रतिक्रिया</string>
+    <string name="share">साझा करो</string>
+    <string name="profile">मेरी प्रोफाइल</string>
+    <string name="exit">बाहर जाएं</string>
+    <string name="settings">सेटिंग्स</string>
+</resources>
